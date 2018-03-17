@@ -1,0 +1,9 @@
+.profile{
+	dissdplay: none;
+}
+
+#heart{
+	display: inline;
+	position: relative;
+	border-radius: 20%;
+}
